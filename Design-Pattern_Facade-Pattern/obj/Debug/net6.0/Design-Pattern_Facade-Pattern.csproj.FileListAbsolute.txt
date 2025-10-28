@@ -1,0 +1,14 @@
+C:\NMU work\ONT401\Template Pattern\Design-Pattern_Facade-Pattern\Design-Pattern_Facade-Pattern\bin\Debug\net6.0\Design-Pattern_Facade-Pattern.exe
+C:\NMU work\ONT401\Template Pattern\Design-Pattern_Facade-Pattern\Design-Pattern_Facade-Pattern\bin\Debug\net6.0\Design-Pattern_Facade-Pattern.deps.json
+C:\NMU work\ONT401\Template Pattern\Design-Pattern_Facade-Pattern\Design-Pattern_Facade-Pattern\bin\Debug\net6.0\Design-Pattern_Facade-Pattern.runtimeconfig.json
+C:\NMU work\ONT401\Template Pattern\Design-Pattern_Facade-Pattern\Design-Pattern_Facade-Pattern\bin\Debug\net6.0\Design-Pattern_Facade-Pattern.dll
+C:\NMU work\ONT401\Template Pattern\Design-Pattern_Facade-Pattern\Design-Pattern_Facade-Pattern\bin\Debug\net6.0\Design-Pattern_Facade-Pattern.pdb
+C:\NMU work\ONT401\Template Pattern\Design-Pattern_Facade-Pattern\Design-Pattern_Facade-Pattern\obj\Debug\net6.0\Design-Pattern_Facade-Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\NMU work\ONT401\Template Pattern\Design-Pattern_Facade-Pattern\Design-Pattern_Facade-Pattern\obj\Debug\net6.0\Design-Pattern_Facade-Pattern.AssemblyInfoInputs.cache
+C:\NMU work\ONT401\Template Pattern\Design-Pattern_Facade-Pattern\Design-Pattern_Facade-Pattern\obj\Debug\net6.0\Design-Pattern_Facade-Pattern.AssemblyInfo.cs
+C:\NMU work\ONT401\Template Pattern\Design-Pattern_Facade-Pattern\Design-Pattern_Facade-Pattern\obj\Debug\net6.0\Design-Pattern_Facade-Pattern.csproj.CoreCompileInputs.cache
+C:\NMU work\ONT401\Template Pattern\Design-Pattern_Facade-Pattern\Design-Pattern_Facade-Pattern\obj\Debug\net6.0\Design-Pattern_Facade-Pattern.dll
+C:\NMU work\ONT401\Template Pattern\Design-Pattern_Facade-Pattern\Design-Pattern_Facade-Pattern\obj\Debug\net6.0\refint\Design-Pattern_Facade-Pattern.dll
+C:\NMU work\ONT401\Template Pattern\Design-Pattern_Facade-Pattern\Design-Pattern_Facade-Pattern\obj\Debug\net6.0\Design-Pattern_Facade-Pattern.pdb
+C:\NMU work\ONT401\Template Pattern\Design-Pattern_Facade-Pattern\Design-Pattern_Facade-Pattern\obj\Debug\net6.0\Design-Pattern_Facade-Pattern.genruntimeconfig.cache
+C:\NMU work\ONT401\Template Pattern\Design-Pattern_Facade-Pattern\Design-Pattern_Facade-Pattern\obj\Debug\net6.0\ref\Design-Pattern_Facade-Pattern.dll
